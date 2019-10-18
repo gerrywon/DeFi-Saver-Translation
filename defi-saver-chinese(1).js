@@ -382,7 +382,6 @@ export default {
 
 questions：
 1.legacy: 'Legacy',
-2.gamble: 'Gamble',
-3.token_amount_in: '%first_token amount in %second_token:'
-4.insurace_label: 'Insured for %sumAssured %currency until %validUntil'
-5.How to deal with words beginning with '%'?
+2.token_amount_in: '%first_token amount in %second_token:'
+3.insurace_label: 'Insured for %sumAssured %currency until %validUntil'
+4.How to deal with words beginning with '%'?
